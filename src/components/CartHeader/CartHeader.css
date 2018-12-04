@@ -1,0 +1,7 @@
+.CartHeader {
+	background-color: #6e7dff;
+	display: flex;
+	align-items: center;
+	color: white;
+	padding: 0 10px;
+  };
